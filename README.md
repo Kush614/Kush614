@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=E8B84A&center=true&vCenter=true&width=720&lines=20+hackathon+wins+in+5+months.;1st+place+at+JetBrains+%C3%97+OpenAI+Codex.;I+ship+AI+agents%2C+MCP+servers+%26+eval+platforms.;M.S.+Computer+Science+(AI%2FML).;Let's+build+something+people+actually+use." alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=E8B84A&center=true&vCenter=true&width=720&lines=21+hackathon+wins+in+5+months.;1st+place+at+JetBrains+%C3%97+OpenAI+Codex.;I+ship+AI+agents%2C+MCP+servers+%26+eval+platforms.;M.S.+Computer+Science+(AI%2FML).;Let's+build+something+people+actually+use." alt="typing banner" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ### 🚀 About me
 
 - 🧠 **M.S. Computer Science (AI/ML)** — University of California, Riverside
-- ⚡ **20 hackathon wins in 5 months** — a public track record of shipping complete products under extreme time pressure
+- ⚡ **21 hackathon wins in 5 months** — a public track record of shipping complete products under extreme time pressure
 - 🤖 I build **AI agents, MCP servers, eval platforms, and high-performance backend systems**
 - 🛠️ Currently building **data & evaluation infrastructure** at XTrace (Stanford-founded)
 - 🏗️ Previously shipped product to **13M+ users** at Reliance Jio
@@ -26,7 +26,7 @@
 
 ---
 
-### 🏆 Hackathon wins — a few of the 20
+### 🏆 Hackathon wins — a few of the 21
 
 <p align="center">
   <img src="https://img.shields.io/badge/🥇_1st-JetBrains_×_OpenAI_Codex-000000?style=flat-square" />
