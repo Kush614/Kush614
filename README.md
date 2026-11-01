@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=20+hackathon+wins+in+5+months.;1st+place+at+JetBrains+%C3%97+OpenAI+Codex.;I+ship+AI+agents%2C+MCP+servers+%26+eval+platforms.;M.S.+Computer+Science+(AI%2FML).;Let's+build+something+people+actually+use." alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=E8B84A&center=true&vCenter=true&width=720&lines=20+hackathon+wins+in+5+months.;1st+place+at+JetBrains+%C3%97+OpenAI+Codex.;I+ship+AI+agents%2C+MCP+servers+%26+eval+platforms.;M.S.+Computer+Science+(AI%2FML).;Let's+build+something+people+actually+use." alt="typing banner" />
 </p>
 
 <p align="center">
