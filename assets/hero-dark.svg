@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Kush Ise. AI and systems engineer. 21 hackathon wins. 13M+ users served. 24k agent tool-calls per second.">
+  <style>
+    .s{font-family:-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,&quot;SF Mono&quot;,Menlo,Consolas,monospace}
+    .t{opacity:0;animation:in .8s cubic-bezier(.2,.8,.2,1) forwards}
+    .t2{animation-delay:.12s} .t3{animation-delay:.24s} .t4{animation-delay:.34s}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.2s ease-out infinite}
+    @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    @keyframes ping{0%{transform:scale(1);opacity:.6}100%{transform:scale(3);opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.t{opacity:1}}
+  </style>
+
+  <g class="t">
+    <rect x=".5" y=".5" width="769" height="419" rx="22" fill="#151b23" stroke="#30363d"/>
+    <rect x="36" y="36" width="282" height="36" rx="18" fill="#0d1117" stroke="#30363d"/>
+    <circle class="ping" cx="58" cy="54" r="5" fill="#3fb950"/>
+    <circle cx="58" cy="54" r="5" fill="#3fb950"/>
+    <text x="74" y="59.5" class="s" font-size="15" font-weight="500" fill="#f0f6fc">Open to AI, infra &amp; agent roles</text>
+    <text x="30" y="238" class="s" font-size="124" font-weight="800" letter-spacing="-5" fill="#f0f6fc">Kush Ise<tspan fill="#2f54ff">.</tspan></text>
+    <text x="36" y="292" class="s" font-size="23" fill="#9198a1">AI &amp; systems engineer. I build<tspan fill="#f0f6fc" font-weight="600"> agents, MCP servers</tspan></text>
+    <text x="36" y="324" class="s" font-size="23" fill="#9198a1"><tspan fill="#f0f6fc" font-weight="600">and eval platforms</tspan>, and the fast infrastructure behind them.</text>
+    <text x="36" y="386" class="m" font-size="14" fill="#9198a1">XTRACE  ·  M.S. CS (AI/ML), UC RIVERSIDE  ·  EX-RELIANCE JIO  ·  SF BAY AREA</text>
+  </g>
+
+  <g class="t t2">
+    <rect x="782" y="0" width="418" height="260" rx="22" fill="#2f54ff"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".14"><circle cx="1170" cy="30" r="60"/><circle cx="1170" cy="30" r="110"/><circle cx="1170" cy="30" r="160"/></g>
+    <text x="814" y="48" class="m" font-size="14" letter-spacing="1.2" fill="#ffffff" fill-opacity=".78">HACKATHON WINS</text>
+    <text x="806" y="196" class="s" font-size="156" font-weight="800" letter-spacing="-8" fill="#ffffff">21</text>
+    <text x="1000" y="194" class="s" font-size="21" font-weight="600" fill="#ffffff">in 5 months</text>
+    <text x="814" y="232" class="s" font-size="15" fill="#ffffff" fill-opacity=".85">Microsoft · AWS · JetBrains × OpenAI · YC</text>
+  </g>
+
+  <g class="t t3">
+    <rect x="782.5" y="272.5" width="202" height="147" rx="20" fill="#151b23" stroke="#30363d"/>
+    <text x="806" y="304" class="m" font-size="12" letter-spacing="1" fill="#9198a1">USERS</text>
+    <text x="804" y="368" class="s" font-size="44" font-weight="800" letter-spacing="-1.5" fill="#f0f6fc">13M+</text>
+    <text x="806" y="396" class="s" font-size="13" fill="#9198a1">served at Reliance Jio</text>
+  </g>
+  <g class="t t4">
+    <rect x="997.5" y="272.5" width="202" height="147" rx="20" fill="#151b23" stroke="#30363d"/>
+    <text x="1021" y="304" class="m" font-size="12" letter-spacing="1" fill="#9198a1">THROUGHPUT</text>
+    <text x="1019" y="368" class="s" font-size="44" font-weight="800" letter-spacing="-1.5" fill="#f0f6fc">24k/s</text>
+    <text x="1021" y="396" class="s" font-size="13" fill="#9198a1">tool-calls, p99 0.38 ms</text>
+  </g>
+</svg>
